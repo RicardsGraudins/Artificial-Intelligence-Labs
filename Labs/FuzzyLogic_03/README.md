@@ -9,4 +9,4 @@
 </p>
 
 # References
-* Dr.John Healey - GMIT Software Development Summer 2016 Q5
+* Dr.John Healy - GMIT Software Development Summer 2016 Q5
